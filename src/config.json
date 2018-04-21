@@ -1,0 +1,84 @@
+{
+    "rules": [
+        {
+            "preffix": "ml",
+            "abbreviate": "ml",
+            "fullName": "margin-left",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "mt",
+            "abbreviate": "mt",
+            "fullName": "margin-top",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "mr",
+            "abbreviate": "mr",
+            "fullName": "margin-right",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "mb",
+            "abbreviate": "mb",
+            "fullName": "margin-bottom",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "pt",
+            "abbreviate": "pt",
+            "fullName": "padding-top",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "pr",
+            "abbreviate": "pr",
+            "fullName": "padding-right",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "pb",
+            "abbreviate": "pb",
+            "fullName": "padding-bottom",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        },
+        {
+            "preffix": "pl",
+            "abbreviate": "pl",
+            "fullName": "padding-left",
+            "range": {
+                "start": 5,
+                "end": 100
+            },
+            "step": 5
+        }
+    ]
+}
